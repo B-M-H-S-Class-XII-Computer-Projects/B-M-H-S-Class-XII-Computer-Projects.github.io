@@ -21,7 +21,7 @@
 | :---- | :----: |
 |.<br>. .<br>. . .<br>. . . .<br>. . . . .|[Half triangle1](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle1.c)|
 |. . . . .<br>. . . .<br>. . .<br>. .<br>.|[Half triangle2](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle2.c)|
-|1<br>2 2<br>2 3 3<br>4 4 4 4<br>5 5 5 5 5|[Half triangle3](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle3.c)|
+|1<br>2 2<br>3 3 3<br>4 4 4 4<br>5 5 5 5 5|[Half triangle3](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle3.c)|
 |5 5 5 5 5<br>4 4 4 4<br>3 3 3<br>2 2<br>1|[Half triangle4](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle4.c)|
 |1<br>1 2<br>1 2 3<br>1 2 3 4<br>1 2 3 4 5|[Half triangle5](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle5.c)|
 #### • If you want to take a look into the converted binary files you can check them [here](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/tree/main/Binaries).
