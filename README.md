@@ -12,10 +12,14 @@
 |Series Addition|Adds 1 --> 10|[1 --> 10](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Sum_of_1_to_10.c)|
 |Addition of All Digits in a Number|Adds all the digits of a single number|[Addition of all digits](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Sum_of_all_digits_in_a_num.c)|
 |Prime Number Checker|Checks if a number is prime or not|[Prime Check](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Prime_num_check.c)|
-|Get all the special numbers from a series|• Prime Number<br>• Odd Number|• [Prime](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Getting_all_primes_in_a_series.c)<br>• Code yet to be released|
+|Get all the special numbers from a series|• Prime Number<br>• Odd Number|• [Prime](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Getting_all_primes_in_a_series.c)<br>• [Odd](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Getting_all_odds_in_a_series.c)|
 |Factorial|Gives the factorial value of a given number|[Factorial](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Factorial_of_a_given_num.c)|
 |Counting Number of Digits|Counts how many digits are there in the given number|[Count](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Counting_noOfDigits_in_a_number.c)|
 |Grading System|Gives grades according to the score|[Grade Sys](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/GradeSys.c)|
+|Array Data Entering|Basic level array program to enter data in an array and displaying it.|[Data Entering](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Data_fill_in_array_and_display.c)|
+|Addition of Array|Adding given data in an array|[Addition of Array](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Sum_of_an_array.c)|
+|Biggest in Array|Getting the biggest value present in an array|[Biggest](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Find_biggest_in_array.c)|
+|Array Sorting|• Bubble Shot Method <br> • More methods will be uploaded in the future|• [Bubble Shot](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Sorting_array_bubble_shot.c)|
 ## Now here are some patterns we made using C
 | How They Look | Corresponding Link |
 | :---- | :----: |
@@ -26,4 +30,4 @@
 |1<br>1 2<br>1 2 3<br>1 2 3 4<br>1 2 3 4 5|[Half triangle5](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/blob/main/src/Patterns_SRC/Half_triangle5.c)|
 #### • If you want to take a look into the converted binary files you can check them [here](https://github.com/B-M-H-S-Class-XII-Computer-Projects/School_Projects_C/tree/main/Binaries).
 ### There are some projects that are not currently uploaded in here. They will be uploaded sooner in the future.
-### Any future projects will be uploaded here. So stay tuned.
+### Any future projects will be uploaded here. So check this website often.
