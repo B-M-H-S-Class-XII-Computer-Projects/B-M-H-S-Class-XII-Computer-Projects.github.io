@@ -1,4 +1,4 @@
-<h1>Welcome Computer Students of B.M.H.S<img align="right" src="https://drive.google.com/uc?export=view&id=17sr1RmLEn5_OxGfGa6AOkRAyETR6JRgu" style="height:17%; width: 17%;" alt="b.m.h.s logo"></h1>
+<h1>Welcome Computer Students of B.M.H.S<img align="right" src="logo.jpg" style="height:17%; width: 17%;" alt="b.m.h.s logo"></h1>
 
 #### This a website, made to get all your C projects at one place.
 
